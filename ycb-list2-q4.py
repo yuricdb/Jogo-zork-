@@ -7,10 +7,12 @@ IF968 - Programão 1
 Autor: Yuri Correia de Barros (ycb)
 Email: ycb@cin.ufpe.br
 Data: 2019-08-22
-
+Copyright(c) 2019 Yuri Correia de Barros
 """
 
 #O JOGO FOI TESTADO E FUNCIONOU, FAVOR QUALQUER BUG ENVIAR A LINHA POR EMAIL.
+#Os blocos (nos comentários ex: bloco g, etc) são referentes a um anexo onde fiz o rascunho do mapa para construção do jogo
+#A ideia era construir o jogo de forma bem básica, sem funções, listas etc.
 
 up = 'cima'
 down = 'baixo'
